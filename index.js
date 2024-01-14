@@ -1,30 +1,25 @@
 let x = ""
 
 while(x === ""){
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
-    document.getElementById("haha").textContent = "haha"
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
+    console.log("haha");
     
 }
